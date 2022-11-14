@@ -48,3 +48,12 @@ body {
   .game-info {
     margin-left: 20px;
   }
+  .outerdiv{
+    display: flex;
+    min-height: 100px;
+    background-color: red;
+  }
+  .field{
+   min-width:98vw; 
+  }
+ 
